@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.8">
+    <link rel="stylesheet" type="text/css" href=""3>
+<title>Essai</title>
+</head>
+<body>
+<header>
+    <h1>Titre du site</h1>
+    <p>Slogan bla bla bla</p>
+    <a href="#"><img src="C:\Users\leora\OneDrive\Images\Exo HTML CSS\OIP.webp" alt="logo de la société"></a>
+</header>
+<nav id="menu_principal">
+    <ul>
+        <li><a href="#">accueil</a></li>
+        <li><a href="#">noir & blanc</a></li>
+        <li><a href="#">Technicolor</a></li>
+        <li><a href="#">Blog</a></li>
+        <li><a href="#">Catalogue</a></li>
+        <li><a href="C:\Users\leora\Exercice I2N contact.html">Contact</a></li>
+    </ul>
+</nav>
+<main>
+    <section>
+        <article>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+        </article>
+        <article>
+            <img src="C:\Users\leora\OneDrive\Images\Exo HTML CSS\OIP (1).webp" alt="test"></a>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+        </article>
+    </section>
+    <aside>
+        <p>Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.</p>
+    </aside>
+</main>
+</body>
+</html>
