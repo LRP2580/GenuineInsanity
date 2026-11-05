@@ -1,11 +1,13 @@
-header {
-  background-color: #333;
+*/style/
+Header {
+  background-color: #00885b;
   color: #fff;
+  padding: 1em;
   text-align: center;
 }
 footer {
-  background-color: green  ;
+  background-color: #00885b;
   color: whitesmoke;
-  padding: 1em;
-  text-align: center;
+  padding: 2cqmax;
+  text-align: left;
 }
