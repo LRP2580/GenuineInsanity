@@ -7,6 +7,14 @@ header {
   color: #fff;
   text-align: center;
 }
+headertop {
+  background-color: #004d3d;
+  color: whitesmoke;
+  padding: 0.5em;
+  font-family: Arial, sans-serif;
+  font-size: 1em;
+  text-align: right;
+}
 nav {
   background-color: #004d3d;
   color: whitesmoke;
@@ -32,6 +40,12 @@ nav a:hover {
 }
 main {
   padding: 2em;
+  font-family: Arial, sans-serif;
+  font-size: 1.2em;
+}
+aside {
+  background-color: #f2f2f2;
+  padding: 1em;
   font-family: Arial, sans-serif;
   font-size: 1.2em;
 }
