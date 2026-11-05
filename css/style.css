@@ -4,7 +4,8 @@ header {
   text-align: center;
 }
 footer {
-  background-color: #333;
-  color: #fff;
-  text-align: left;
+  background-color: green  ;
+  color: whitesmoke;
+  padding: 1em;
+  text-align: center;
 }
