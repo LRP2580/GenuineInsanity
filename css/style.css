@@ -4,7 +4,7 @@ header {
   padding: 1em;
   font-family: Arial, sans-serif;
   font-size: 1.5em;
-  font-color: #fff;
+  color: #fff;
   text-align: center;
 }
 Body {
@@ -16,6 +16,6 @@ Body {
 footer {
   background-color: #00885b;
   color: whitesmoke;
-  padding: 2cqmax;
+  padding: 2em;
   text-align: left;
 }
