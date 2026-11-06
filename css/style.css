@@ -7,23 +7,6 @@ header {
   color: #fff;
   text-align: center;
 }
-.headertop {
-  background-color: #004d3d;
-  color: whitesmoke;
-  padding: 1em;
-  font-family: Arial, sans-serif;
-  font-size: 1.2em;
-  text-align: center;
-}
-.headertop li {
-  display: inline;
-  margin-right: 1em;
-}
-.headertop ul {
-  list-style: none;
-  margin: 0;
-  padding: 0;
-}
 nav {
   background-color: #004d3d;
   color: whitesmoke;
@@ -58,6 +41,7 @@ aside {
   padding: 1em;
   font-family: Arial, sans-serif;
   font-size: 1.2em;
+  text-align: justify;
 }
 body {
   font-family: Arial, sans-serif;
