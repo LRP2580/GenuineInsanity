@@ -1,19 +1,28 @@
 header {  
   background-color: #00885b;
   color: whitesmoke;
-  padding: 1em;
+  padding: 0em;
   font-family: Arial, sans-serif;
   font-size: 1.5em;
   color: #fff;
   text-align: center;
 }
-headertop {
+.headertop {
   background-color: #004d3d;
   color: whitesmoke;
-  padding: 0.5em;
+  padding: 1em;
   font-family: Arial, sans-serif;
-  font-size: 1em;
-  text-align: right;
+  font-size: 1.2em;
+  text-align: center;
+}
+.headertop li {
+  display: inline;
+  margin-right: 1em;
+}
+.headertop ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
 }
 nav {
   background-color: #004d3d;
@@ -52,7 +61,7 @@ aside {
 body {
   font-family: Arial, sans-serif;
   margin: 0px;
-  padding: 1em;
+  padding: 0em;
   background-color: beige;
 }
 footer {
